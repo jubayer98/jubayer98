@@ -1,7 +1,7 @@
 <h1 align="left">Hey 👋 Welcome!</h1>
 <p align="left"> I'm Jubayer, a technology professional originally from Bangladesh, now based in Germany. With over four years of experience in the tech industry, I have led impactful projects such as an Automatic Vaccine Scheduler and a full-stack web application for genomic data visualization. My expertise spans Python, SQL, the MERN stack, Salesforce CRM, and a variety of cloud and data technologies. At organizations like BRAC and Universitätsklinikum Düsseldorf, I have implemented robust CI/CD pipelines and ETL workflows to drive scalable, data-driven solutions. My work is driven by a strong commitment to healthcare innovation, sustainable development, and digital transformation for social good. </p>
 <h2 align="left">About Me</h2>
-<p align="left"> 🔭 Currently developing a genomic data visualization tool at Universitätsklinikum Düsseldorf.<br> 🌱 Expanding my knowledge in modern web technologies including React.js, Node.js, Express.js, and Next.js.<br> ⚡ Fun fact: I'm writing a master's thesis with no deadline in sight — a true exercise in patience and persistence. </p>
+<p align="left"> 🔭 Currently developing a genomic data visualization tool at Universitätsklinikum Düsseldorf.<br> 🌱 Expanding my knowledge in modern web technologies including React.js, Node.js, Express.js, and Next.js.</p>
 <h2 align="left">Technologies I Work With</h2>
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="30" height="30" alt="Python" />
