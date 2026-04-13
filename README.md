@@ -1,7 +1,8 @@
 <h1 align="left">Hey 👋 Welcome!</h1>
-<p align="left"> I'm Jubayer, a technology professional originally from Bangladesh, now based in Germany. With over four years of experience in the tech industry, I have led impactful projects such as an Automatic Vaccine Scheduler and a full-stack web application for genomic data visualization. My expertise spans Python, SQL, the MERN stack, Salesforce CRM, and a variety of cloud and data technologies. At organizations like BRAC and Universitätsklinikum Düsseldorf, I have implemented robust CI/CD pipelines and ETL workflows to drive scalable, data-driven solutions. My work is driven by a strong commitment to healthcare innovation, sustainable development, and digital transformation for social good. </p>
+<p align="left"> Hi, I’m Jubayer! I’m originally from Bangladesh and now live here in Germany. I’ve spent the last four years building software that helps people make sense of big, complicated data. For example, I’ve built the workflow 'digital command center' for NGO to track their project goals, and a visual tool for biologists to study WES/WGS more easily. Whether I’m working with healthcare data or business stats, my goal is always the same: using technology to solve real-world problems and help society. I love taking complex technical puzzles and turning them into simple, scalable solutions. </p>
 <h2 align="left">About Me</h2>
-<p align="left"> 🔭 Currently developing a genomic data visualization tool at Universitätsklinikum Düsseldorf.<br> 🌱 Expanding my knowledge in modern web technologies including React.js, Node.js, Express.js, and Next.js.</p>
+<p align="left"> 🔭 Currently: Analyzing spatial proteomics data at Universitätsklinikum Düsseldorf to help map out how proteins behave in human tissue.</br>
+🌱 Learning: Leveling up my Machine Learning skills for image processing and mastering modern JavaScript frameworks.</p>
 <h2 align="left">Technologies I Work With</h2>
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="30" height="30" alt="Python" />
