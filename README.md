@@ -17,5 +17,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg" width="30" height="30" alt="LaTeX" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/salesforce/salesforce-original.svg" width="30" height="30" alt="Salesforce" />
 </div>
+<!--
 <h2 align="left">GitHub Statistics</h2>
 <div align="center"> <a href="https://git.io/streak-stats"> <img src="https://nirzak-streak-stats.vercel.app?user=jubayer98&theme=dark" alt="GitHub Streak" /> </a> <br /> <img src="https://github-readme-activity-graph.vercel.app/graph?username=jubayer98&radius=16&theme=react&area=false&order=5&hide_border=true&hide_title=false" height="370" alt="GitHub Activity Graph" /> </div>
+-->
