@@ -1,7 +1,7 @@
 <h1 align="left">Hey 👋 Welcome!</h1>
 <p align="left"> Hi, I’m Jubayer! I’m originally from Bangladesh and now live here in Germany. I’ve spent the last four years building software that helps people make sense of big, complicated data. For example, I’ve built the workflow 'digital command center' for NGO to track their project goals, and a visual tool for biologists to study WES/WGS more easily. Whether I’m working with healthcare data or business stats, my goal is always the same: using technology to solve real-world problems and help society. I love taking complex technical puzzles and turning them into simple, scalable solutions. </p>
 <h2 align="left">About Me</h2>
-<p align="left"> 🔭 Currently: Analyzing spatial proteomics data at Universitätsklinikum Düsseldorf to help map out how proteins behave in human tissue.</br>
+<p align="left"> 🔭 Currently: Analyzing spatial proteomics data at Universitätsklinikum Düsseldorf.</br>
 🌱 Learning: Leveling up my Machine Learning skills for image processing and mastering modern JavaScript frameworks.</p>
 <h2 align="left">Technologies I Work With</h2>
 <div align="center">
